@@ -1,0 +1,10 @@
+ru\ms\controller\HelloController.class
+ru\ms\repository\TaskRepository.class
+ru\ms\entity\PersonEntity.class
+ru\ms\repository\PersonRepository.class
+ru\ms\entity\TaskEntity.class
+ru\ms\dto\PersonResponse.class
+ru\ms\controller\PersonController.class
+ru\ms\controller\IndexController.class
+ru\ms\Application.class
+ru\ms\dto\PersonRequest.class
